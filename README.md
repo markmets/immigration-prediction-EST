@@ -4,6 +4,7 @@ Supplementary material for article "Automated stance detection in complex topics
 Data and code are free to use as it is.
 
 Includes:
+
 **DATASET**
 Annotated datased of immigration related sentences in Estonian.
 
