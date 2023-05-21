@@ -22,7 +22,7 @@ Includes:
     
     Contains 7435 sentences with annotations. 3261 are Against, Neutral and Supportive categories and rest are nonevaluative (MH)
 
-    MH - nonevaluative (ambiguos)
+    MH - nonevaluative (ambiguous)
     1-2 - Against
     3 - Neutral
     4-5 Supportive
