@@ -1,4 +1,5 @@
-# immigration-prediction-EST
+
+
 
 Supplementary material for article "Automated stance detection in complex topics and small languages: the challenging case of immigration in polarizing news media".
 Data and code are free to use as it is. See article for details on data.
